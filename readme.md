@@ -50,6 +50,16 @@ To run locally:
   npm run start:client
 ```
 
+## Hands on
+
+## Server consumer ingest example
+
+![](https://github.com/fernando-pires47/node-grenache-p2p-client-server/blob/main/images/server.png)
+
+## Client producer response example
+
+![](https://github.com/fernando-pires47/node-grenache-p2p-client-server/blob/main/images/client.png)
+
 ## References
 
 * https://blog.bitfinex.com/tutorial/bitfinex-loves-microservices-grenache/

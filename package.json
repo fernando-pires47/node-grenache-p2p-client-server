@@ -1,0 +1,17 @@
+{
+  "name": "node-grenache-p2p-client-server",
+  "version": "1.0.0",
+  "description": "P2P client/server using Grenache and Grape",
+  "main": "index.js",
+  "author": "Fernando Pires",
+  "license": "ISC",
+  "scripts": {
+    "start:client": "node client/index.js",
+    "start:server": "node server/index.js",
+    "start:new": "node new/index.js"
+  },
+  "dependencies": {
+    "grenache-nodejs-http": "^0.7.13",
+    "grenache-nodejs-link": "^1.0.0"
+  }
+}

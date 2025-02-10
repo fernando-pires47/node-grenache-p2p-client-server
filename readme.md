@@ -36,6 +36,12 @@ This service is a simple example to create purchase and sale transactions with d
 
 ## Run project
 
+First of all, install dependencies:
+
+```bash
+  npm install
+```
+
 To run locally:
 
 ### Run server
